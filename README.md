@@ -60,5 +60,10 @@ set GOOGLE_API_KEY="PASTE_YOUR_API_KEY_HERE"(for WINDOWS)
 
 ## now run the application
 python app.py
+```
+Pictures:
 
-
+<img width="1133" height="674" alt="Screenshot 2025-10-17 141025" src="https://github.com/user-attachments/assets/e5d89920-8415-483c-8c7e-fbe94d2da8a0" />
+<img width="1460" height="794" alt="Screenshot 2025-10-17 141153" src="https://github.com/user-attachments/assets/b950209d-63ac-40e2-a800-a68bd0019de7" />
+<img width="923" height="669" alt="Screenshot 2025-10-17 141213" src="https://github.com/user-attachments/assets/da1abf50-bbe4-4c39-a6f0-ce8b995b962c" />
+<img width="750" height="935" alt="Screenshot 2025-10-17 141609" src="https://github.com/user-attachments/assets/dfea219e-e45c-4747-89e7-572a34cfe381" />
