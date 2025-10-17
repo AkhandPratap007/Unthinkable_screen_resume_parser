@@ -9,8 +9,8 @@ This project is designed to showcase skills in backend development, data process
 ## ✨ Features
 
 * **Easy-to-Use Interface**: Simple web UI for uploading a PDF resume and pasting a job description.
-* **AI-Powered Analysis**: Uses the Gemini 1.5 Pro model to intelligently parse and compare documents.
-* **Match Score**: Generates a score from 1 to 10 indicating how well the resume matches the job requirements.
+* **AI-Powered Analysis**: Uses the Gemini 2.5 Pro model to intelligently parse and compare documents.
+* **Match Score**: Generates a score from 1 to 100 indicating how well the resume matches the job requirements.
 * **Detailed Justification**: Provides a concise summary explaining the score, highlighting strengths and weaknesses.
 * **Structured Data Extraction**: Automatically extracts skills, work experience, and education into a clean, structured format.
 * **Single-File Application**: The entire application (backend and frontend) is contained within a single Python file for simplicity.
@@ -20,7 +20,7 @@ This project is designed to showcase skills in backend development, data process
 ## 🛠️ Tech Stack
 
 * **Backend**: Python, Flask
-* **AI Model**: Google Gemini 1.5 Pro
+* **AI Model**: Google Gemini 2.5 Pro
 * **PDF Parsing**: PyPDF2
 * **Frontend**: HTML, Tailwind CSS, JavaScript
 
@@ -31,7 +31,7 @@ This project is designed to showcase skills in backend development, data process
 Follow these steps to run the application on your local machine.
 
 ### 1. Prerequisites
-Make sure you have **Python 3.8** or higher installed on your system.
+Make sure you have **Python 3.13.7** or higher installed on your system.
 
 ### 2. Project Files
 Create a folder for your project and add the following two files inside it:
